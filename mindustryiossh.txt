@@ -1,0 +1,3 @@
+http://mindustry.io/auth/login
+Hostname: fuzzbuck@178.63.16.200
+Password: fuzzbuck_sucks_but_aze_dsnt
